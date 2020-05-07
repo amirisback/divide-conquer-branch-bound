@@ -5,3 +5,16 @@ Algoritma Branch And Bound
 http://artificialintelligence-notes.blogspot.com/2010/07/8-puzzle-problem.html
 https://www.geeksforgeeks.org/8-puzzle-problem-using-branch-and-bound/
 https://github.com/huyvohcmc/8-puzzle
+
+Link Java OPEN JDK
+https://www.oracle.com/java/technologies/javase-jdk13-downloads.html
+
+Branch and Bound
+// *** SAMPLE DATA ***
+int[][] initial = {{1, 8, 2}, {0, 4, 3}, {7, 6, 5}};
+int[][] goal = {{1, 2, 3}, {4, 5, 6}, {7, 8, 0}};
+
+Divide And Conquer
+// *** SAMPLE DATA ***
+test[j] = rand.nextInt(100) - 50;
+private static Random rand = new Random();

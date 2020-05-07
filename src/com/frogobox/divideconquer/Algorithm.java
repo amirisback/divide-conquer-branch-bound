@@ -22,7 +22,7 @@ public class Algorithm {
 
     public static int seqStart = 0;
     public static int seqEnd = -1;
-
+    private static Random rand = new Random();
     /**
      * Cubic maximum contiguous subsequence sum algorithm.
      * seqStart and seqEnd represent the actual best sequence.
@@ -156,6 +156,7 @@ public class Algorithm {
         int i;
         for (i = 0; totalTime < 4000; i++) {
             for (int j = 0; j < test.length; j++)
+                // *** SAMPLE DATA ***
                 test[j] = rand.nextInt(100) - 50;
 
             switch (alg) {
@@ -181,6 +182,6 @@ public class Algorithm {
                 + "\ttime = " + (totalTime * 1000 / i) + " microsec");
     }
 
-    private static Random rand = new Random();
+
 
 }
