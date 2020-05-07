@@ -13,5 +13,4 @@ int[][] goal = {{1, 2, 3}, {4, 5, 6}, {7, 8, 0}};
 
 Divide And Conquer
 // *** SAMPLE DATA ***
-test[j] = rand.nextInt(100) - 50;
-private static Random rand = new Random();
+int[] sampleData = {4, -3, 5, -2, -1, 2, 6, -2};

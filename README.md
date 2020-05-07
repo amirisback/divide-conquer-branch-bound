@@ -21,13 +21,23 @@
 - IntelliJ IDEA JetBrain Community (IDE) - https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
 - Git (Windows) - https://git-scm.com/download/win
 
+# How To Run Project
+## Using IntelliJ
+
+
+
+## Using CMD
+-
+    $ javac Puzzle.java
+    $ java Puzzle
+
 # Result - Screen Shot App
-- Team Name
+## Team Name
 ![ScreenShoot Apps](docs/image/ss_team_name.png?raw=true)
 
-- Algorithm Divide and Conquer
+## Algorithm Divide and Conquer
 
-- Algorithm Branch and Bound
+## Algorithm Branch and Bound
 ![ScreenShoot Apps](docs/image/ss_branchbounch_1.png?raw=true)
 ![ScreenShoot Apps](docs/image/ss_branchbounch_2.png?raw=true)
 ![ScreenShoot Apps](docs/image/ss_branchbounch_3.png?raw=true)
