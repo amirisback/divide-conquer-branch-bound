@@ -28,7 +28,9 @@
 - Algorithm Divide and Conquer
 
 - Algorithm Branch and Bound
-
+![ScreenShoot Apps](docs/image/ss_branchbounch_1.png?raw=true)
+![ScreenShoot Apps](docs/image/ss_branchbounch_2.png?raw=true)
+![ScreenShoot Apps](docs/image/ss_branchbounch_3.png?raw=true)
 
 # Attention !!!
 Please enjoy and don't forget fork and give a star
