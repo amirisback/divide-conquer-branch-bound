@@ -182,6 +182,4 @@ public class Algorithm {
                 + "\ttime = " + (totalTime * 1000 / i) + " microsec");
     }
 
-
-
 }

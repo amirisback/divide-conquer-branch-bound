@@ -22,3 +22,41 @@ Struktur Laporan :
         > Screen Shot Hasil Program
         > Petunjuk Menjalankan Program
 - Lampiran
+
+------------------------------------------------------------------------------------------------------
+
+Content Laporan :
+- Persiapan Alat - Amir
+
+- Rancangan & Skenario Percobaan Algoritma Divide and Conquer - [Isi Nama]
+  > Jawaban : http://rendywinata.blogspot.com/2015/01/algoritma-divide-and-conquer-pada-java.html
+
+- Rancangan & Skenario Percobaan Algoritma Branch And Bound - [Isi Nama]
+  > Jawaban :
+    1. http://artificialintelligence-notes.blogspot.com/2010/07/8-puzzle-problem.html
+    2. https://www.geeksforgeeks.org/8-puzzle-problem-using-branch-and-bound/
+    3. https://github.com/huyvohcmc/8-puzzle
+
+- Hasil Percobaan Algoritma Branch and Bound & Algoritma Divide and Conquer - Amir
+
+------------------------------------------------------------------------------------------------------
+
+Yang Belum Dikerjakan :
+- Rancangan & Skenario Percobaan Algoritma Divide and Conquer - [Isi Nama]
+- Rancangan & Skenario Percobaan Algoritma Branch And Bound - [Isi Nama]
+- Merapikin Dokumen - [Isi Nama]
+
+
+
+
+
+- Algorithm Divide and Conquer
+
+$ javac *.java
+$ java com.frogobox.divideconquer.Main
+
+
+- Algorithm Branch and Bound
+
+$ javac *.java
+$ java com./frogobox.branchbound.Main

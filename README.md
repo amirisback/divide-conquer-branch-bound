@@ -27,13 +27,13 @@
 - Open this project
 - Algorithm Divide and Conquer
 
-        [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
+        [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
         run - Main.java
 
 
 - Algorithm Branch and Bound
 
-        [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
+        [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
         run - Main.java
 
 
@@ -41,12 +41,12 @@
 ### Go to foolder project
 - Algorithm Divide and Conquer
 
-        [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
+        [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
 
 
 - Algorithm Branch and Bound
 
-        [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
+        [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
 
 ### Run code javac
 
