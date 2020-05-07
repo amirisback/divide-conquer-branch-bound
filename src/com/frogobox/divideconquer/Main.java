@@ -19,7 +19,7 @@ import static com.frogobox.divideconquer.Algorithm.*;
  * com.frogobox.divideconquer
  */
 
-public final class DivideConquer {
+public final class Main {
 
     public static void main(String[] args) {
         int[] sampleData = {4, -3, 5, -2, -1, 2, 6, -2};

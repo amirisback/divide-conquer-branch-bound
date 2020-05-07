@@ -26,10 +26,27 @@
 
 
 
-## Using CMD
--
-    $ javac Puzzle.java
-    $ java Puzzle
+## Using Command Prompt
+### Go to foolder project
+- Algorithm Divide and Conquer
+
+    ../divide-conquer-branch-bound/src/com/frogobox/branchbound
+
+- Algorithm Branch and Bound
+
+    ../divide-conquer-branch-bound/src/com/frogobox/divideconquer
+
+### Run code javac
+
+    - Algorithm Divide and Conquer
+
+        $ javac *.java
+        $ java com.frogobox.divideconquer.Main
+
+    - Algorithm Branch and Bound
+
+        $ javac *.java
+        $ java com./frogobox.branchbound.Main
 
 # Result - Screen Shot App
 ## Team Name

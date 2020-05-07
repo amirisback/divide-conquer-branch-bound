@@ -20,7 +20,7 @@ import static com.frogobox.branchbound.Algorithm.*;
  */
 
 
-public class BranchBound {
+public class Main {
 
     public static void main(String[] args) {
 
