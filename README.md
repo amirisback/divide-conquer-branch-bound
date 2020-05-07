@@ -27,45 +27,49 @@
 - Open this project
 - Algorithm Divide and Conquer
 
-    [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
-    run - Main.java
+        [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
+        run - Main.java
 
 
 - Algorithm Branch and Bound
 
-    [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
-    run - Main.java
+        [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
+        run - Main.java
 
 
 ## Using Command Prompt
 ### Go to foolder project
 - Algorithm Divide and Conquer
 
-    [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
+        [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
 
 
 - Algorithm Branch and Bound
 
-    [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
+        [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
 
 ### Run code javac
 
 - Algorithm Divide and Conquer
 
-    $ javac *.java
-    $ java com.frogobox.divideconquer.Main
+        $ javac *.java
+        $ java com.frogobox.divideconquer.Main
 
 
 - Algorithm Branch and Bound
 
-    $ javac *.java
-    $ java com./frogobox.branchbound.Main
+        $ javac *.java
+        $ java com./frogobox.branchbound.Main
 
 # Result - Screen Shot App
+## Project Structure
+![ScreenShoot Apps](docs/image/ss_structure.jpg?raw=true)
+
 ## Team Name
 ![ScreenShoot Apps](docs/image/ss_team_name.png?raw=true)
 
 ## Algorithm Divide and Conquer
+![ScreenShoot Apps](docs/image/ss_divide_conquer.png?raw=true)
 
 ## Algorithm Branch and Bound
 ![ScreenShoot Apps](docs/image/ss_branchbounch_1.png?raw=true)
