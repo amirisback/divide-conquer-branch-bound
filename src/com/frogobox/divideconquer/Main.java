@@ -22,6 +22,7 @@ import static com.frogobox.divideconquer.Algorithm.*;
 public final class Main {
 
     public static void main(String[] args) {
+        // *** SAMPLE DATA ***
         int[] sampleData = {4, -3, 5, -2, -1, 2, 6, -2};
         int maxSum;
 

@@ -23,32 +23,43 @@
 
 # How To Run Project
 ## Using IntelliJ
+- Follow Official Tutorial From IntelliJ - https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html
+- Open this project
+- Algorithm Divide and Conquer
 
+    [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
+    run - Main.java
+
+
+- Algorithm Branch and Bound
+
+    [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
+    run - Main.java
 
 
 ## Using Command Prompt
 ### Go to foolder project
 - Algorithm Divide and Conquer
 
-        ../divide-conquer-branch-bound/src/com/frogobox/branchbound
+    [root_project]/divide-conquer-branch-bound/src/com/frogobox/branchbound
 
 
 - Algorithm Branch and Bound
 
-        ../divide-conquer-branch-bound/src/com/frogobox/divideconquer
+    [root_project]/divide-conquer-branch-bound/src/com/frogobox/divideconquer
 
 ### Run code javac
 
-    - Algorithm Divide and Conquer
+- Algorithm Divide and Conquer
 
-        $ javac *.java
-        $ java com.frogobox.divideconquer.Main
+    $ javac *.java
+    $ java com.frogobox.divideconquer.Main
 
 
-    - Algorithm Branch and Bound
+- Algorithm Branch and Bound
 
-        $ javac *.java
-        $ java com./frogobox.branchbound.Main
+    $ javac *.java
+    $ java com./frogobox.branchbound.Main
 
 # Result - Screen Shot App
 ## Team Name

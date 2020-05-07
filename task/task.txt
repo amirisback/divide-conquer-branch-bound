@@ -1,10 +1,24 @@
-Tubes Tahap 2 :
-Percobaan dan hasil percobaan
-- Laporan
-  > Rancangan percobaan
-  > Skenario percobaan dalam bentuk grafik dan table
-  > Lampiran
-- Code
-  > Coding program
-  > Data
-  > Petunjuk menjalankan program
+## Tubes Tahap 2 ##
+
+Struktur Laporan :
+- Cover
+- Persiapan Alat
+- Algoritma Divide and Conquer
+    > Percobaan
+        > Rancangan Percobaan
+        > Skenario Percobaan
+    > Hasil Percobaan
+        > Code Program
+        > Data (Sample Data)
+        > Screen Shot Hasil Program
+        > Petunjuk Menjalankan Program
+- Algoritma Branch And Bound
+    > Percobaan
+        > Rancangan Percobaan
+        > Skenario Percobaan
+    > Hasil Percobaan
+        > Code Program
+        > Data (Sample Data)
+        > Screen Shot Hasil Program
+        > Petunjuk Menjalankan Program
+- Lampiran
