@@ -1,0 +1,6 @@
+Algoritma Divide and Conquer
+http://rendywinata.blogspot.com/2015/01/algoritma-divide-and-conquer-pada-java.html
+
+Algoritma Branch And Bound
+http://artificialintelligence-notes.blogspot.com/2010/07/8-puzzle-problem.html
+https://www.geeksforgeeks.org/8-puzzle-problem-using-branch-and-bound/
