@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.PriorityQueue;
 
-public class Puzzle {
+public class BranchBound {
 
     public int dimension = 3;
 
@@ -119,9 +119,9 @@ public class Puzzle {
         // White tile coordinate
         int x = 1, y = 0;
 
-        Puzzle puzzle = new Puzzle();
-        if (puzzle.isSolvable(initial)) {
-            puzzle.solve(initial, goal, x, y);
+        BranchBound branchBound = new BranchBound();
+        if (branchBound.isSolvable(initial)) {
+            branchBound.solve(initial, goal, x, y);
         }
         else {
             System.out.println("The given initial is impossible to solve");
