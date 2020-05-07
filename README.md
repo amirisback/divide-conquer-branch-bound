@@ -16,6 +16,11 @@
 - Implementasi Algorithm Divide and Conquer
 - Implementasi Algorithm Branch and Bound
 
+# Tools
+- Java Open JDK (SDK) - https://www.oracle.com/java/technologies/javase-jdk13-downloads.html
+- IntelliJ IDEA JetBrain Community (IDE) - https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
+- Git (Windows) - https://git-scm.com/download/win
+
 # Result - Screen Shot App
 - Team Name
 ![ScreenShoot Apps](docs/image/ss_team_name.png?raw=true)
