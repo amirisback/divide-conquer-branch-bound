@@ -30,11 +30,12 @@
 ### Go to foolder project
 - Algorithm Divide and Conquer
 
-    ../divide-conquer-branch-bound/src/com/frogobox/branchbound
+        ../divide-conquer-branch-bound/src/com/frogobox/branchbound
+
 
 - Algorithm Branch and Bound
 
-    ../divide-conquer-branch-bound/src/com/frogobox/divideconquer
+        ../divide-conquer-branch-bound/src/com/frogobox/divideconquer
 
 ### Run code javac
 
@@ -42,6 +43,7 @@
 
         $ javac *.java
         $ java com.frogobox.divideconquer.Main
+
 
     - Algorithm Branch and Bound
 
