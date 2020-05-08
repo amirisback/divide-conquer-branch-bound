@@ -62,6 +62,10 @@
         $ java com./frogobox.branchbound.Main
 
 # Result - Screen Shot App
+
+## Document
+- Report - https://github.com/amirisback/divide-conquer-branch-bound/blob/master/docs/report.pdf
+
 ## Project Structure
 ![ScreenShoot Apps](docs/image/ss_structure.jpg?raw=true)
 
