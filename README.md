@@ -64,7 +64,11 @@
 # Result - Screen Shot App
 
 ## Document
-- Report - https://github.com/amirisback/divide-conquer-branch-bound/blob/master/docs/report.pdf
+- Report Phase 1 - https://github.com/amirisback/divide-conquer-branch-bound/blob/master/docs/report_phase_1.pdf
+- Report Phase 2 - https://github.com/amirisback/divide-conquer-branch-bound/blob/master/docs/report_phase_2.pdf
+- Report Phase 3 - https://github.com/amirisback/divide-conquer-branch-bound/blob/master/docs/report_phase_3.pdf
+- Presentation - https://github.com/amirisback/divide-conquer-branch-bound/blob/master/docs/presentation.pptx
+- Youtube - https://youtu.be/LvWGYgSW0FY
 
 ## Project Structure
 ![ScreenShoot Apps](docs/image/ss_structure.jpg?raw=true)
